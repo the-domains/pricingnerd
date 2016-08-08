@@ -1,0 +1,14 @@
+layout_spectrum: 0.8617065965663642
+typography_spectrum: 0.4682073653675616
+color:
+  brandStrength: 0.8953866183292121
+  lightness: 0.9337457809597254
+  saturation: 0.4176895138807595
+  rhythmicContrast: 0.006243386538699269
+  brandColors:
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+name: PricingNerd

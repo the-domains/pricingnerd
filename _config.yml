@@ -11,6 +11,10 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 layout_spectrum: 0.8617065965663642
+author:
+  name: Roberto
+  email: roberto@priceonvalue.com
+  url: ''
 logo: null
 name: PricingNerd
 title: Capture the Value of Your Differentiation
